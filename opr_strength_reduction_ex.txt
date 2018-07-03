@@ -1,0 +1,7 @@
+LOC 2
+MUL
+NEG
+LOC 2
+DIV
+ADD
+LDV 20
